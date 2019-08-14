@@ -1,0 +1,40 @@
+{
+  "id": "6",
+  "title": "Fire",
+  "description": "Fire",
+  "alt": "Fire",
+  "thumbName": "ver-la-luz-24.jpg", 
+  "imgName": "ver-la-luz-24_o.jpg",
+  "classes": "item",
+  "tags": ["photo", "color", "pattern", "light"]
+},
+{
+  "id": "7",
+  "title": "Beyond the crowd",
+  "description": "Beyond the crowd",
+  "alt": "Beyond the crowd",
+  "thumbName": "5%20-%20Personas%207.jpg", 
+  "imgName": "5%20-%20Personas%207_o.jpg",
+  "classes": "item",
+  "tags": ["photo", "color", "pattern", "light"]
+},
+{
+  "id": "8",
+  "title": "Jamaa el Fna",
+  "description": "Jamaa el Fna",
+  "alt": "Jamaa el Fna",
+  "thumbName": "2009-7-21---Marrakech-2_o.jpg", 
+  "imgName": "2009-7-21---Marrakech-2_o.jpg",
+  "classes": "item item-mid",
+  "tags": ["photo", "color", "pattern", "light"]
+},
+{
+  "id": "9",
+  "title": "Two Lovers",
+  "description": "Two Lovers",
+  "alt": "Two Lovers",
+  "thumbName": "5%20-%20Personas%2011.jpg", 
+  "imgName": "5%20-%20Personas%2011_o.jpg",
+  "classes": "item",
+  "tags": ["photo", "color", "pattern", "light"]
+}

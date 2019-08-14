@@ -1,0 +1,27 @@
+import React from 'react';
+import Thumbnail from './Thumbnail';
+
+const ThumbnailGrid = () => {
+  return (
+    <div style={styles}>
+      <Thumbnail />
+      <Thumbnail />
+      <Thumbnail />
+      <Thumbnail />
+      <Thumbnail />
+      <Thumbnail />
+      <Thumbnail />
+      <Thumbnail />
+    </div>
+  );
+};
+
+const styles = {
+  height: '35%',
+  width: '100%',
+  background: 'blue',
+  display: 'flex',
+  flexWrap: 'wrap'
+};
+
+export default ThumbnailGrid;
